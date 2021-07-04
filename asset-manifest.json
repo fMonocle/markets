@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fmonocle.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/fmonocle.github.io/static/js/main.3c9c51b2.chunk.js",
-    "main.js.map": "/fmonocle.github.io/static/js/main.3c9c51b2.chunk.js.map",
-    "runtime-main.js": "/fmonocle.github.io/static/js/runtime-main.fc574735.js",
-    "runtime-main.js.map": "/fmonocle.github.io/static/js/runtime-main.fc574735.js.map",
-    "static/js/2.959b9203.chunk.js": "/fmonocle.github.io/static/js/2.959b9203.chunk.js",
-    "static/js/2.959b9203.chunk.js.map": "/fmonocle.github.io/static/js/2.959b9203.chunk.js.map",
-    "static/js/3.e7719442.chunk.js": "/fmonocle.github.io/static/js/3.e7719442.chunk.js",
-    "static/js/3.e7719442.chunk.js.map": "/fmonocle.github.io/static/js/3.e7719442.chunk.js.map",
-    "index.html": "/fmonocle.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/fmonocle.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.959b9203.chunk.js.LICENSE.txt": "/fmonocle.github.io/static/js/2.959b9203.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fmonocle.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/markets/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/markets/static/js/main.3c9c51b2.chunk.js",
+    "main.js.map": "/markets/static/js/main.3c9c51b2.chunk.js.map",
+    "runtime-main.js": "/markets/static/js/runtime-main.515c82c3.js",
+    "runtime-main.js.map": "/markets/static/js/runtime-main.515c82c3.js.map",
+    "static/js/2.959b9203.chunk.js": "/markets/static/js/2.959b9203.chunk.js",
+    "static/js/2.959b9203.chunk.js.map": "/markets/static/js/2.959b9203.chunk.js.map",
+    "static/js/3.e7719442.chunk.js": "/markets/static/js/3.e7719442.chunk.js",
+    "static/js/3.e7719442.chunk.js.map": "/markets/static/js/3.e7719442.chunk.js.map",
+    "index.html": "/markets/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/markets/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.959b9203.chunk.js.LICENSE.txt": "/markets/static/js/2.959b9203.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/markets/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc574735.js",
+    "static/js/runtime-main.515c82c3.js",
     "static/js/2.959b9203.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.3c9c51b2.chunk.js"
